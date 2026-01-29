@@ -28,6 +28,4 @@ Here are a few projects I maintain or contribute to:
 
 ---
 
-## 🔹 Stats
-![Fiercexontan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiercexontan-Ops&show_icons=true&theme=radical)
 
