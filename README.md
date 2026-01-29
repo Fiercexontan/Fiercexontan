@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Fiercexontan
 
-<!--
-**Fiercexontan/Fiercexontan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer | Crypto Enthusiast | Member of [Fiercexontan-Ops](https://github.com/Fiercexontan-Ops)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+I am focused on building Probot apps, supporting crypto projects, and creating secure, professional workflows for organizations.
+
+- 💻 Node.js & Probot development
+- 🔐 Security-focused automation
+- 🌐 Crypto & blockchain issue management
+- 🏢 Member of **Fiercexontan-Ops** GitHub organization
+
+---
+
+## 🔹 Projects & Contributions
+Here are a few projects I maintain or contribute to:
+
+- [Support Repo](https://github.com/Fiercexontan-Ops/Support) — Issue templates, workflow automation
+- [Probot App](https://github.com/Fiercexontan-Ops/org-bot) — Automated issue triage for crypto projects
+
+---
+
+## 🔹 Contact
+- Email: Hubs16008@gmail.com  
+- [Website](https://webfix-protocol.web.app)
+
+---
+
+## 🔹 Stats
+![Fiercexontan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiercexontan-Ops&show_icons=true&theme=radical)
+
